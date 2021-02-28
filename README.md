@@ -8,8 +8,8 @@ To use the application locally, you would have to install the node modules ('npm
 
 ## Links
 Link to live application: https://cryptic-fjord-79089.herokuapp.com </br>
-Link to GitHub Repository: https://github.com/GuilleMGN/EatDaBurger
-Questions? My email: matthewguillen777@gmail.com </br>
+Link to GitHub Repository: https://github.com/GuilleMGN/EatDaBurger </br>
+Questions? My email: matthewguillen777@gmail.com
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
